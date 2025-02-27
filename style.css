@@ -136,10 +136,9 @@ body {
   color: #2f2f2f;
   font-family: 'Open Sans';
   text-align:center;
-  background-image: ("img/backimg.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-image: url("img/backimg2.jpg");
+  background-image: url("img/backimg.jpg");
 
 }
 
@@ -185,7 +184,7 @@ body {
     text-align:center;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-image: url("img/backimg2.jpg");
+    background-image: url("img/backimg_sp.jpg");
     background-size:cover;
   }
 }
